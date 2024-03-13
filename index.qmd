@@ -1,5 +1,5 @@
 ---
-title: "atlas"
+title: "The Brain Microbiome Atlas (BMA)"
 ---
 
 This is a Quarto website.
