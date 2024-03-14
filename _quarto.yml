@@ -11,6 +11,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: datasets.qmd
+        text: Datasets
   page-footer: |
     The BMA is brought to you by the [CINEMA Research Group](https://cwru-cinema.com/).
   reader-mode: true
