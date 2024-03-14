@@ -1,6 +1,9 @@
 [
   {
     "listing": "/datasets.html",
-    "items": []
+    "items": [
+      "/posts/dominy_et_al_2019/index.html",
+      "/posts/welcome/index.html"
+    ]
   }
 ]
