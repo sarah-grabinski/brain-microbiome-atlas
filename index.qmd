@@ -1,0 +1,7 @@
+---
+title: "The Brain Microbiome Atlas (BMA)"
+---
+
+There is a considerable body of work suggesting that gut microbiota can influence behavior, brain physiology, neurochemistry, immune responses, and disease progression. Recent findings indicate that in cases of neurological trauma or disease, microbes can evade the blood-brain barrier and proliferate in the brain. However, these studies also produced evidence of microbes in the brains of control cases, leading some researchers to propose the existence of a "brain microbiome."
+
+The Brain Microbiome Atlas (BMA) aims to compile open-source data to help advance this exciting area of research. Data has been aggregated from studies on the gut-brain axis, microbes associated with neurodegeneration and/or disease, and the existence of a healthy brain microbiome.
