@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/emery_et_al_2017/index.html",
+    "href": "posts/emery_et_al_2017/index.html",
+    "title": "16S rRNA Next Generation Sequencing Analysis Shows Bacteria in Alzheimer’s Post-Mortem Brain",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Study Details\n\n\n\nTitle\nBrain microbiota disruption within inflammatory demyelinating lesions in multiple sclerosis.\n\n\nAuthors\nDavid C. Emery, Deborah K. Shoemark, Tom E. Batstone, Christy M. Waterfall, Jane A. Coghill, Tanya L. Cerajewska, Maria Davies, Nicola X. West, and Shelley J. Allen\n\n\nPublication Date\n2017-06-20\n\n\nJournal\nFrontiers in Aging Neuroscience\n\n\nPubMed\nPMC5476743\n\n\nDOI\n10.3389/fnagi.2017.00195\n\n\nGene(s)\n16S rRNA\n\n\nGene region(s)\n–\n\n\nRaw sequences?\nNo\n\n\nMetadata?\nNo\n\n\nFull Text\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC5476743/pdf/fnagi-09-00195.pdf\n\n\n\n\n\nDownloads\n\nRead counts\n\n\n\nAbstract\nThe neurological deterioration associated with Alzheimer’s disease (AD), involving accumulation of amyloid-beta peptides and neurofibrillary tangles, is associated with evident neuroinflammation. This is now seen to be a significant contributor to pathology. Recently the tenet of the privileged status of the brain, regarding microbial compromise, has been questioned, particularly in terms of neurodegenerative diseases. It is now being considered that microbiological incursion into the central nervous system could be either an initiator or significant contributor to these. This is a novel study using 16S ribosomal gene-specific Next generation sequencing (NGS) of extracted brain tissue. A comparison was made of the bacterial species content of both frozen and formaldehyde fixed sections of a small cohort of Alzheimer-affected cases with those of cognitively unimpaired (normal). Our findings suggest an increase in bacterial populations in Alzheimer brain tissue compared with normal.\n\n\nCitation\nEmery, D. C., Shoemark, D. K., Batstone, T. E., Waterfall, C. M., Coghill, J. A., Cerajewska, T. L., Davies, M., West, N. X., & Allen, S. J. (2017). 16S rRNA Next Generation Sequencing Analysis Shows Bacteria in Alzheimer’s Post-Mortem Brain. Frontiers in aging neuroscience, 9, 195. https://doi.org/10.3389/fnagi.2017.00195\nDownload .nbib"
   },
   {
     "objectID": "index.html",
@@ -25,13 +25,13 @@
     "href": "datasets.html",
     "title": "The Brain Microbiome Atlas (BMA)",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 14, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 11, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "16S rRNA Next Generation Sequencing Analysis Shows Bacteria in Alzheimer’s Post-Mortem Brain\n\n\n\ndisease states\nalzheimer's\n16s\n\n\n\n\n\n\n\n`Jun 20, 2017`{=html}\nDavid C. Emery, Deborah K. Shoemark, Tom E. Batstone, Christy M. Waterfall, Jane A. Coghill, Tanya L. Cerajewska, Maria Davies, Nicola X. West, and Shelley J. Allen\n\n\n\n\n  \n\n\n\n\nBrain microbiota disruption within inflammatory demyelinating lesions in multiple sclerosis\n\n\n\n\n\n\n\ndisease states\n\n\nmultiple sclerosis\n\n\n16s\n\n\nV3-V5\n\n\n\n\n\n\n\n\n\n\n\nNov 28, 2016\n\n\nW. G. Branton, J. Q. Lu, M. G. Surette, R. A. Holt, J. Lind, J. D. Laman, and C. Power\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/dominy_et_al_2019/index.html",
-    "href": "posts/dominy_et_al_2019/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/branton_et_al_2016/index.html",
+    "href": "posts/branton_et_al_2016/index.html",
+    "title": "Brain microbiota disruption within inflammatory demyelinating lesions in multiple sclerosis",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Study Details\n\n\n\nTitle\nBrain microbiota disruption within inflammatory demyelinating lesions in multiple sclerosis.\n\n\nAuthors\nBranton, W.G., Lu, J.Q., Surette, M.G., Holt, R.A., Lind, J., Laman, J.D. and Power, C.\n\n\nPublication Date\n2016-11-28\n\n\nJournal\nScientific Reports\n\n\nPMID\n27892518\n\n\nDOI\n10.1038/srep37344\n\n\nGene(s)\n16S rRNA\n\n\nGene region(s)\nV3-V5\n\n\nRaw sequences?\nYes\n\n\nMetadata?\nNo\n\n\nFull Text\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125007/pdf/srep37344.pdf\n\n\nPubMed\nPMC5125007\n\n\n\n\n\nDownloads\n\nRaw sequences\n\n\n\nAbstract\nMicrobial communities reside in healthy tissues but are often disrupted during disease. Bacterial genomes and proteins are detected in brains from humans, nonhuman primates, rodents and other species in the absence of neurological disease. We investigated the composition and abundance of microbiota in frozen and fixed autopsied brain samples from patients with multiple sclerosis (MS) and age- and sex-matched nonMS patients as controls, using neuropathological, molecular and bioinformatics tools. 16s rRNA sequencing revealed Proteobacteria to be the dominant phylum with restricted diversity in cerebral white matter (WM) from MS compared to nonMS patients. Both clinical groups displayed 1,200–1,400 bacterial genomes/cm3 and low bacterial rRNA:rDNA ratios in WM. RNAseq analyses showed a predominance of Proteobacteria in progressive MS patients’ WM, associated with increased inflammatory gene expression, relative to a broader range of bacterial phyla in relapsing-remitting MS patients’ WM. Although bacterial peptidoglycan (PGN) and RNA polymerase beta subunit immunoreactivities were observed in all patients, PGN immunodetection was correlated with demyelination and neuroinflammation in MS brains. Principal component analysis revealed that demyelination, PGN and inflammatory gene expression accounted for 86% of the observed variance. Thus, inflammatory demyelination is linked to an organ-specific dysbiosis in MS that could contribute to underlying disease mechanisms.\n\n\nCitation\nBranton, W. G., Lu, J. Q., Surette, M. G., Holt, R. A., Lind, J., Laman, J. D., & Power, C. (2016). Brain microbiota disruption within inflammatory demyelinating lesions in multiple sclerosis. Scientific reports, 6, 37344. https://doi.org/10.1038/srep37344\nDownload .nbib"
   }
 ]
