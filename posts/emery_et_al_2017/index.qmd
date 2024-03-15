@@ -1,0 +1,47 @@
+---
+title: "16S rRNA Next Generation Sequencing Analysis Shows Bacteria in Alzheimer’s Post-Mortem Brain"
+author: "David C. Emery, Deborah K. Shoemark, Tom E. Batstone, Christy M. Waterfall, Jane A. Coghill, Tanya L. Cerajewska, Maria Davies, Nicola X. West, and Shelley J. Allen"
+date: "2017-06-20"
+categories: [disease states, "alzheimer's", "16s"]
+image: "image.jpg"
+---
+
+# Study Details
+
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### Title            | Brain microbiota disruption within inflammatory demyelinating lesions in multiple sclerosis.                                                                         |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### Authors          | David C. Emery, Deborah K. Shoemark, Tom E. Batstone, Christy M. Waterfall, Jane A. Coghill, Tanya L. Cerajewska, Maria Davies, Nicola X. West, and Shelley J. Allen |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### Publication Date | 2017-06-20                                                                                                                                                           |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### Journal          | Frontiers in Aging Neuroscience                                                                                                                                      |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### PubMed           | [PMC5476743](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5476743/)                                                                                                  |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### DOI              | [10.3389/fnagi.2017.00195](https://doi.org/10.3389%2Ffnagi.2017.00195)                                                                                               |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### Gene(s)          | 16S rRNA                                                                                                                                                             |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### Gene region(s)   | --                                                                                                                                                                   |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### Raw sequences?   | No                                                                                                                                                                   |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### Metadata?        | No                                                                                                                                                                   |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| #### Full Text        | <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5476743/pdf/fnagi-09-00195.pdf>                                                                                        |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+# Downloads
+
+-   [Read counts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5476743/bin/Data_Sheet_1.xlsx)
+
+# Abstract
+
+The neurological deterioration associated with Alzheimer’s disease (AD), involving accumulation of amyloid-beta peptides and neurofibrillary tangles, is associated with evident neuroinflammation. This is now seen to be a significant contributor to pathology. Recently the tenet of the privileged status of the brain, regarding microbial compromise, has been questioned, particularly in terms of neurodegenerative diseases. It is now being considered that microbiological incursion into the central nervous system could be either an initiator or significant contributor to these. This is a novel study using 16S ribosomal gene-specific Next generation sequencing (NGS) of extracted brain tissue. A comparison was made of the bacterial species content of both frozen and formaldehyde fixed sections of a small cohort of Alzheimer-affected cases with those of cognitively unimpaired (normal). Our findings suggest an increase in bacterial populations in Alzheimer brain tissue compared with normal.
+
+# Citation
+
+Emery, D. C., Shoemark, D. K., Batstone, T. E., Waterfall, C. M., Coghill, J. A., Cerajewska, T. L., Davies, M., West, N. X., & Allen, S. J. (2017). 16S rRNA Next Generation Sequencing Analysis Shows Bacteria in Alzheimer's Post-Mortem Brain. *Frontiers in aging neuroscience*, *9*, 195. https://doi.org/10.3389/fnagi.2017.00195
+
+[Download .nbib](https://www.ncbi.nlm.nih.gov/pmc/resources/citations/5476743/export/)
