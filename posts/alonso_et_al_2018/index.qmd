@@ -1,0 +1,49 @@
+---
+title: "Infection of Fungi and Bacteria in Brain Tissue From Elderly Persons and Patients With Alzheimer’s Disease"
+author: "Ruth Alonso, Diana Pisa, Ana M. Fernández-Fernández, Luis Carrasco"
+date: "2018-05-24"
+categories: ["alzheimer's", disease states, "16s"]
+image: "image.jpg"
+---
+
+# Study Details
+
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### Title            | Infection of Fungi and Bacteria in Brain Tissue From Elderly Persons and Patients With Alzheimer’s Disease |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### Authors          | Ruth Alonso, Diana Pisa, Ana M. Fernández-Fernández, Luis Carrasco                                         |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### Publication Date | 2018-05-24                                                                                                 |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### Journal          | Frontiers in Aging Neuroscience                                                                            |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### PubMed           | [PMC5976758](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5976758/)                                        |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### DOI              | [10.3389/fnagi.2018.00159](https://doi.org/10.3389%2Ffnagi.2018.00159)                                     |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### Gene(s)          | 16s                                                                                                        |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### Gene region(s)   | V3-V4                                                                                                      |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### Raw sequences?   | Yes                                                                                                        |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### Metadata?        | Yes                                                                                                        |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+| #### Full Text        |                                                                                                            |
++-----------------------+------------------------------------------------------------------------------------------------------------+
+
+# Downloads
+
+-   [Sequences](https://www.ncbi.nlm.nih.gov/nucleotide/EGAS00001002766)
+
+# Abstract
+
+Alzheimer’s disease (AD) is the leading cause of dementia in elderly people. The etiology of this disease remains a matter of intensive research in many laboratories. We have advanced the idea that disseminated fungal infection contributes to the etiology of AD. Thus, we have demonstrated that fungal proteins and DNA are present in nervous tissue from AD patients. More recently, we have reported that bacterial infections can accompany these mycoses, suggesting that polymicrobial infections exist in AD brains. In the present study, we have examined fungal and bacterial infection in brain tissue from AD patients and control subjects by immunohistochemistry. In addition, we have documented the fungal and bacterial species in brain regions from AD patients and control subjects by next-generation sequencing (NGS). Our results from the analysis of ten AD patients reveal a variety of fungal and bacterial species, although some were more prominent than others. The fungal genera more prevalent in AD patients were *Alternaria*, *Botrytis*, *Candida*, and *Malassezia*. We also compared these genera with those found in elderly and younger subjects. One of the most prominent genera in control subjects was *Fusarium*. Principal component analysis clearly indicated that fungi from frontal cortex samples of AD brains clustered together and differed from those of equivalent control subjects. Regarding bacterial infection, the phylum *Proteobacteria* was the most prominent in both AD patients and controls, followed by *Firmicutes*, *Actinobacteria*, and *Bacteroides*. At the family level, *Burkholderiaceae* and *Staphylococcaceae* exhibited higher percentages in AD brains than in control brains. These findings could be of interest to guide targeted antimicrobial therapy for AD patients. Moreover, the variety of microbial species in each patient may constitute a basis for a better understanding of the evolution and severity of clinical symptoms in each patient.
+
+**Keywords:** polymicrobial infection, Alzheimer’s disease, infection in aging brain, fungal infection, next generation sequencing, bacteria and fungal co-infections
+
+# Citation
+
+Alonso, R., Pisa, D., Fernández-Fernández, A. M., & Carrasco, L. (2018). Infection of Fungi and Bacteria in Brain Tissue From Elderly Persons and Patients With Alzheimer's Disease. *Frontiers in aging neuroscience*, *10*, 159. https://doi.org/10.3389/fnagi.2018.00159
+
+[Download .nbib](https://www.ncbi.nlm.nih.gov/pmc/resources/citations/5976758/export/)
