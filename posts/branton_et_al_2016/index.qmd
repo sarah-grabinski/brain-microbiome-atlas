@@ -2,7 +2,7 @@
 title: "Brain microbiota disruption within inflammatory demyelinating lesions in multiple sclerosis"
 author: "W. G. Branton, J. Q. Lu, M. G. Surette, R. A. Holt, J. Lind, J. D. Laman, and C. Power"
 date: "2016-11-28"
-categories: [disease states, multiple sclerosis, "16s", V3-V5, ]
+categories: [disease states, multiple sclerosis, 16s, V3-V5]
 image: "image.jpg"
 ---
 

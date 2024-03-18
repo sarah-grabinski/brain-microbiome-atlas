@@ -2,7 +2,7 @@
 title: "Infection of Fungi and Bacteria in Brain Tissue From Elderly Persons and Patients With Alzheimer’s Disease"
 author: "Ruth Alonso, Diana Pisa, Ana M. Fernández-Fernández, Luis Carrasco"
 date: "2018-05-24"
-categories: ["alzheimer's", disease states, "16s"]
+categories: [Alzheimers, disease states, 16s]
 image: "image.jpg"
 ---
 

@@ -2,14 +2,14 @@
 title: "16S rRNA Next Generation Sequencing Analysis Shows Bacteria in Alzheimer’s Post-Mortem Brain"
 author: "David C. Emery, Deborah K. Shoemark, Tom E. Batstone, Christy M. Waterfall, Jane A. Coghill, Tanya L. Cerajewska, Maria Davies, Nicola X. West, and Shelley J. Allen"
 date: "2017-06-20"
-categories: [disease states, "alzheimer's", "16s"]
+categories: [disease states, Alzheimers, 16s]
 image: "image.jpg"
 ---
 
 # Study Details
 
 +-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| #### Title            | Brain microbiota disruption within inflammatory demyelinating lesions in multiple sclerosis.                                                                         |
+| #### Title            | 16S rRNA Next Generation Sequencing Analysis Shows Bacteria in Alzheimer’s Post-Mortem Brain                                                                         |
 +-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | #### Authors          | David C. Emery, Deborah K. Shoemark, Tom E. Batstone, Christy M. Waterfall, Jane A. Coghill, Tanya L. Cerajewska, Maria Davies, Nicola X. West, and Shelley J. Allen |
 +-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
