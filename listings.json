@@ -2,8 +2,10 @@
   {
     "listing": "/datasets.html",
     "items": [
+      "/posts/alonso_et_al_2018/index.html",
       "/posts/emery_et_al_2017/index.html",
-      "/posts/branton_et_al_2016/index.html"
+      "/posts/branton_et_al_2016/index.html",
+      "/posts/branton_et_al_2013/index.html"
     ]
   }
 ]
